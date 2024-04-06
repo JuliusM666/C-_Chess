@@ -2,4 +2,4 @@
 /chess/obj
 /chess/Properties
 /chess/bin/Debug/netcoreapp3.1
-!*img
+!/chess/bin/Debug/netcoreapp3.1/img
