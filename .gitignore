@@ -1,5 +1,6 @@
 *.csproj.user
 /chess/obj
 /chess/Properties
-/bin/Debug/netcoreapp3.1
+/chess/bin/Debug/netcoreapp3.1
 !*img
+/res
