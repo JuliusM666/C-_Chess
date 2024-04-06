@@ -1,4 +1,0 @@
-*.csproj.user
-/chess/obj
-/chess/Properties
-/chess/bin/Debug/netcoreapp3.1/chess*
